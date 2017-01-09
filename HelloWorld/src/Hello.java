@@ -4,5 +4,6 @@ public class Hello {
 		// Prints "Hello, World" to the terminal window.
 		System.out.println("Hello, World");
 		System.out.println("It's been a while, but I'm back!");
+		System.out.println("This is an improved implementation.");
 	}
 }
